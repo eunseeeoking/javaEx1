@@ -1,0 +1,2 @@
+module EveryDay_Java {
+}
